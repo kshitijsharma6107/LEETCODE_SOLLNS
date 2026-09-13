@@ -1,6 +1,6 @@
 # 📝 144. Binary Tree Preorder Traversal (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/binary-tree-preorder-traversal/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
