@@ -1,6 +1,6 @@
 # 📝 105. Construct Binary Tree from Preorder and Inorder Traversal (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 27 MB
 
 ---
 
