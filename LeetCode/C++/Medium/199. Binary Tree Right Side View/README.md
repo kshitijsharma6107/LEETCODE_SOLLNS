@@ -1,6 +1,6 @@
 # 📝 199. Binary Tree Right Side View (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/?envType=problem-list-v2&envId=tree)
+🔗 [Problem Link](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
