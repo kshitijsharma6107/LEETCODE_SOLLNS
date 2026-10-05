@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 15 / 76 (19.7%)
+- **Completed:** 16 / 76 (21.1%)
 
 ---
 
@@ -79,7 +79,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Maximum Depth of Binary Tree](./C++/Easy/104. Maximum Depth of Binary Tree/)
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
-- [ ] Lowest Common Ancestor of a Binary Tree
+- [x] [Lowest Common Ancestor of a Binary Tree](./C++/Medium/236. Lowest Common Ancestor of a Binary Tree/)
 - [x] [Same Tree](./C++/Easy/100. Same Tree/)
 - [ ] Binary Tree Zigzag Level Order Traversal
 - [ ] Binary Tree Maximum Path Sum
