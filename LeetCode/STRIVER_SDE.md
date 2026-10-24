@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 20 / 76 (26.3%)
+- **Completed:** 21 / 76 (27.6%)
 
 ---
 
@@ -68,7 +68,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Largest Rectangle in Histogram
 - [ ] Sliding Window Maximum
 - [ ] Min Stack
-- [ ] Rotting Oranges
+- [x] [Rotting Oranges](./C++/Medium/994. Rotting Oranges/)
 - [ ] Daily Temperatures
 
 ### 📂 Binary Tree & BST
