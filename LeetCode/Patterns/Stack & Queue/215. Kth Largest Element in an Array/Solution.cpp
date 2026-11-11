@@ -24,10 +24,11 @@ void precolatedown(int pos, vector<int>&heap,int size ){
     swap(heap[maxpos],heap[pos]);
     precolatedown(maxpos,heap,size);
 }
-void dodelete(vector <int> &heap, int size  ){
-    heap[0]=heap[size-1];
+void dodelete(vector<int>& heap) {
+    heap[0] = heap.back();
     heap.pop_back();
-    precolatedown(0,heap,size);
+    if (!heap.empty())
+        precolatedown(0, heap, heap.size());
 }
     int findKthLargest(vector<int>& nums, int k) {
         int n = nums.size();
@@ -35,7 +36,7 @@ void dodelete(vector <int> &heap, int size  ){
         precolatedown(i,nums,n);
        }
        for(int i = 1 ; i<k ;i++){
-        dodelete(nums,n);
+        dodelete(nums);
        }
      return nums[0];
         
